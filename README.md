@@ -23,7 +23,7 @@ Welcome to the course report for the SQL & POWER BI ! This README document provi
 
 Below is a table summarizing the mini projects and final project completed during the course:
 
-| Description                               | Link                                    |
-|-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Description                                                      | Link                                    |
+|------------------------------------------------------------------|-----------------------------------------|
+| Mini Projects: Superstore Sales Dashboard                        | [Project Link]                          |
+| Final Project: Healthcare Analytics Dashboard using Power BI     | [Project Link]                          |
