@@ -25,5 +25,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                                      | Link                                    |
 |------------------------------------------------------------------|-----------------------------------------|
-| Mini Projects: Superstore Sales Dashboard                        |https://github.com/karthikdoli/POWER-BI-/blob/ea732686f0ea85d240fb9f688a3728bb96314f5c/SURE_TRUST%20MINI%20PROJECT.pbix                           |
-| Final Project: Healthcare Analytics Dashboard using Power BI     |https://github.com/karthikdoli/POWER-BI-/blob/ea732686f0ea85d240fb9f688a3728bb96314f5c/SURE%20Trust%20Major%20Project.pbix                        |
+| Mini Projects: Superstore Sales Dashboard                        |[View Project](https://github.com/karthikdoli/POWER-BI-/blob/ea732686f0ea85d240fb9f688a3728bb96314f5c/SURE_TRUST%20MINI%20PROJECT.pbix)                           |
+| Final Project: Healthcare Analytics Dashboard using Power BI     |[View Project](https://github.com/karthikdoli/POWER-BI-/blob/ea732686f0ea85d240fb9f688a3728bb96314f5c/SURE%20Trust%20Major%20Project.pbix)                        |
